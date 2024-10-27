@@ -1,0 +1,14 @@
+unique_name: Gender DImension
+object_type: dimension
+label: Gender DImension
+hierarchies: []
+level_attributes:
+  - unique_name: dimgender_empty_attr
+    label: dimgender_empty_attr
+    contains_unique_names: false
+    dataset: dimgender
+    is_hidden: true
+    is_unique_key: false
+    key_columns: []
+    name_column: ''
+type: standard
