@@ -1,0 +1,14 @@
+unique_name: Color Dimension
+object_type: dimension
+label: Color Dimension
+hierarchies: []
+level_attributes:
+  - unique_name: factinternetsales_empty_attr
+    label: factinternetsales_empty_attr
+    contains_unique_names: false
+    dataset: factinternetsales
+    is_hidden: true
+    is_unique_key: false
+    key_columns: []
+    name_column: ''
+type: standard
