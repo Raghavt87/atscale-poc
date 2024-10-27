@@ -1,0 +1,6 @@
+version: 1
+unique_name: atscale-poc
+object_type: catalog
+label: atscale-poc
+aggressive_agg_promotion: false
+build_speculative_aggs: true
