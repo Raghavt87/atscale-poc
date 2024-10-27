@@ -1,0 +1,14 @@
+unique_name: Product Dimension
+object_type: dimension
+label: Product Dimension
+hierarchies: []
+level_attributes:
+  - unique_name: dimproduct_empty_attr
+    label: dimproduct_empty_attr
+    contains_unique_names: false
+    dataset: dimproduct
+    is_hidden: true
+    is_unique_key: false
+    key_columns: []
+    name_column: ''
+type: standard

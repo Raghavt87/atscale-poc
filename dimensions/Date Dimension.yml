@@ -1,0 +1,14 @@
+unique_name: Date Dimension
+object_type: dimension
+label: New Dimension
+hierarchies: []
+level_attributes:
+  - unique_name: datecustom_empty_attr
+    label: datecustom_empty_attr
+    contains_unique_names: false
+    dataset: datecustom
+    is_hidden: true
+    is_unique_key: false
+    key_columns: []
+    name_column: ''
+type: standard

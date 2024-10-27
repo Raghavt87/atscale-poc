@@ -1,0 +1,12 @@
+unique_name: SLM Internet Sales
+object_type: model
+label: SLM Internet Sales
+metrics: []
+relationships:
+  - unique_name: empty_dataset_New_Dimension
+    from:
+      dataset: ''
+      join_columns: []
+    to:
+      dimension: New Dimension
+      level: ''

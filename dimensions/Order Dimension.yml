@@ -1,0 +1,14 @@
+unique_name: Order Dimension
+object_type: dimension
+label: Order Dimension
+hierarchies: []
+level_attributes:
+  - unique_name: dimorder_empty_attr
+    label: dimorder_empty_attr
+    contains_unique_names: false
+    dataset: dimorder
+    is_hidden: true
+    is_unique_key: false
+    key_columns: []
+    name_column: ''
+type: standard
